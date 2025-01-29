@@ -46,17 +46,22 @@ BoomBikes aims to optimize its operations by understanding:
    - *Humidity* (⁠ hum ⁠) and *windspeed* reduce demand.  
    - *Light snow/rain* (⁠ weathersit=3 ⁠) decreases rentals by *~25%* vs. clear days.  
 
-3.⁠ ⁠*Categorical Drivers*:  
-   - *Holidays* and *weekends* (especially Sundays) negatively affect rentals.  
-   - Registered users drive *~88%* of total demand.  
-
 *Model Performance*:  
-•⁠  ⁠*R² of 0.82* on test data, indicating strong explanatory power.  
+•⁠  ⁠*R² of 0.81* on test data, indicating strong explanatory power.  
 •⁠  ⁠Key predictors: ⁠ yr ⁠, ⁠ temp ⁠, ⁠ hum ⁠, ⁠ weathersit ⁠, and specific months.  
 
 *Strategic Recommendations*:  
 1.⁠ ⁠Increase bike availability during *summer months* and *favorable weather days*.  
 2.⁠ ⁠Launch promotions during *winter* and *holidays* to offset demand dips.  
+
+Demand of bikes depend on 
+    - year
+    - Dec, Sep, March Months
+    - temp
+    - windspeed 
+    - Light_snowrain
+    - Misty
+    - spring and winter.
 
 ---
 
