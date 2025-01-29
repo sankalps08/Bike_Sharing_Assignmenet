@@ -26,11 +26,11 @@ BoomBikes aims to optimize its operations by understanding:
 
 ## Technologies Used  
 •⁠  ⁠*Python* (Core programming language)  
-•⁠  ⁠*Pandas* (v1.3.4) - Data manipulation and cleaning  
-•⁠  ⁠*NumPy* (v1.20.3) - Numerical operations  
-•⁠  ⁠*Scikit-learn* (v0.24.2) - Model building and evaluation  
-•⁠  ⁠*Statsmodels* (v0.12.2) - Statistical analysis and VIF calculation  
-•⁠  ⁠*Matplotlib* (v3.4.3) & *Seaborn* (v0.11.2) - Visualization  
+•⁠  ⁠*Pandas* - Data manipulation and cleaning  
+•⁠  ⁠*NumPy* - Numerical operations  
+•⁠  ⁠*Scikit-learn* - Model building and evaluation  
+•⁠  ⁠*Statsmodels* - Statistical analysis and VIF calculation  
+•⁠  ⁠*Matplotlib* & *Seaborn* - Visualization  
 •⁠  ⁠*Jupyter Notebook* - Interactive analysis  
 
 ---
